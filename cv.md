@@ -1,5 +1,5 @@
-#Natalia Frolova
+# Natalia Frolova
 
-##Contacts
+## Contacts
 
-###Education
+## Education
